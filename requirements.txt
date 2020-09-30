@@ -1,0 +1,9 @@
+numpy
+pandas
+holoviews
+bokeh
+seaborn
+scikit-learn
+scipy
+pylab
+matplotlib
