@@ -5,5 +5,4 @@ bokeh
 seaborn
 scikit-learn
 scipy
-pylab
 matplotlib
