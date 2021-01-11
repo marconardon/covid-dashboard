@@ -1,3 +1,4 @@
+ipython
 bokeh==1.4.0
 numpy
 pandas
