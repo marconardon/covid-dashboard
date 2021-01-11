@@ -1,6 +1,7 @@
+ipython
+jupyter
 bokeh==1.4.0
 numpy
 pandas
 holoviews
-scikit-learn
 voila
