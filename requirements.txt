@@ -2,7 +2,5 @@ numpy
 pandas
 holoviews
 bokeh
-seaborn
 scikit-learn
-scipy
-matplotlib
+voila
