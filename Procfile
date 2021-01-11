@@ -1,1 +1,1 @@
-web: voila --port=$PORT --no-browser
+web: voila "COVID-19 Italia.ipynb" --port=$PORT --no-browser --debug
