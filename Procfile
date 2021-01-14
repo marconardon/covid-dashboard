@@ -1,1 +1,1 @@
-web: voila "COVID-19 Italia.ipynb" --port=$PORT --no-browser
+web: voila "COVID-19 Italia.ipynb" --port=$PORT --no-browser --MappingKernelManager.cull_interval=30 --MappingKernelManager.cull_idle_timeout=30 --MappingKernelManager.cull_connected=True
